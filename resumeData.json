@@ -1,0 +1,180 @@
+{
+  "main": {
+    "name":"Matt Cheng",
+    "occupation":"Full Stack Web Developer and Mechanical Engineer",
+    "description":"On my down time, I love playing video games and producing music!",
+    "image":"profilepic.jpg",
+    "bio":"I graduated from the University of California, Riverside with a Bachelor's degree in Mechanical Engineering. During my undergradute career, I developed a passion for coding through my senior design project and from there I became a self-taught full stack web developer. I am currently seeking an opportunity to grow in a fast-paced environment with a team that can utilize my skills in both front-end and back-end web development.",
+    "contactmessage":"If you like what you see, feel free to contact me and I would love to talk to you more about my experiences!",
+    "email": "mattchicheng@gmail.com",
+    "phone": "909-851-8077",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Eastvale",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://matthewkcheng.github.io/portfolio",
+    "resumedownload":"MatthewChengResume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/matthewcheng1127/",
+        "className":"fab fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/matthewkcheng",
+        "className":"fab fa-github"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/ovtkast",
+        "className":"fab fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/ovtkastmusic",
+        "className":"fab fa-instagram"
+      },
+      {
+        "name":"spotify",
+        "url":"https://open.spotify.com/artist/02tNJ4ZTGXThzSA5A9QREM?si=wihh2asnSAubnrTqjFXsYQ",
+        "className":"fab fa-spotify"
+      },
+      {
+        "name":"soundcloud",
+        "url":"http://soundcloud.com/ovtkastmusic",
+        "className":"fab fa-soundcloud"
+      }
+    ]
+  },
+  "resume":{
+    "frontend":"HTML5, CSS3, Bootstrap, JavaScript, JQuery, Git, React.JS, ES6, Adobe Photoshop, Adobe Illustrator",
+    "backend":"Node.JS, Express.JS, EJS, SQL, MongoDB, Mongoose, Passport, OAuth 2.0",
+    "mechE":"CSWA (Certified SolidWorks Associate), AutoCAD, MATLAB, C/C++, Arduino, Machine Shop, MIG Welding 3-D Printing",
+    "education":[
+      {
+        "school":"University of California, Riverside",
+        "degree":"Bachelor's of Science: Mechanical Engineering",
+        "graduated":"March 2019",
+        "description":"Cumulative GPA: 3.32"
+      }
+    ],
+    "work":[
+      {
+        "company":"Crown Technical Systems",
+        "title":"Mechanical Engineer",
+        "years":"November 2019 - March 2020",
+        "description":"I designed fully operational electrical substation enclosures, relay panels, and switchgears using AutoCAD. This required knowledge in a variety of engineering fields such as mechanical, electrical, and civil engineering. I worked cross-functionally with other engineering teams and communicated with customers weekly to give project updates and discuss project specifications."
+      },
+      {
+        "company":"California Environmental Engineering, LLC.",
+        "title":"Mechanical Engineer",
+        "years":"May 2019 - August 2019",
+        "description":"I set up testing equipment and prepped automobiles onto chassis dynamometers for emission testing and verified that the emissions were within EPA and ARP standards. In addition, I calibrated the tools and emission test cells for EPA and ARP verification."
+      },
+      {
+        "company":"ACDelco/Durofix, Inc.",
+        "title":"Junior Mechanical Engineering Intern",
+        "years":"June 2018 - August 2018",
+        "description":"I work specifically with R&D in the company's automotive power tool division. I executed specification reviews and benchmark verifications of their new line of power tools. I also analyzed and repaired faulty customer tools."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Autonomous Fire Suppression Robot",
+        "category":"Arduino, C/C++",
+        "image":"AFSR.png",
+        "url":"https://matthewcheng.carbonmade.com/projects/7128857",
+        "code":"https://github.com/matthewkcheng/AFSR"
+      },
+      {
+        "title":"Keeper",
+        "category":"React.JS, ES6, HTML, and CSS",
+        "image":"keeper.png",
+        "url":"https://matthewkcheng.github.io/keeper",
+        "code":"https://github.com/matthewkcheng/keeper/tree/master"
+      },
+      {
+        "title":"Grubber Landing Page",
+        "category":"HTML, CSS, and Bootstrap",
+        "image":"grubber.png",
+        "url":"http://matthewkcheng.github.io/grubber",
+        "code":"https://github.com/matthewkcheng/grubber"
+      },
+      {
+        "title":"Echo Echo Game",
+        "category":"HTML, CSS, JavaScript, and jQuery",
+        "image":"echoecho.png",
+        "url":"http://matthewkcheng.github.io/echo-echo",
+        "code":"https://github.com/matthewkcheng/echo-echo"
+      },
+      {
+        "title":"ToDoList App",
+        "category":"HTML, CSS, JavaScript, Node.JS, Express.JS, and MongoDB",
+        "image":"todolist.png",
+        "url":"https://damp-cove-27024.herokuapp.com/",
+        "code":"https://github.com/matthewkcheng/todolist"
+      },
+      {
+        "title":"Secrets App",
+        "category":"HTML, CSS, Node.JS, EJS, MongoDB, Passport, and OAuth 2.0",
+        "image":"secrets.png",
+        "url":"https://enigmatic-temple-07599.herokuapp.com/",
+        "code":"https://github.com/matthewkcheng/lightbar"
+      },
+      {
+        "title":"Light Bar",
+        "category":"Arduino, C/C++",
+        "image":"lightbar.png",
+        "url":"https://matthewcheng.carbonmade.com/projects/7134197",
+        "code":"https://github.com/matthewkcheng/lightbar"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
