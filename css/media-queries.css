@@ -363,7 +363,12 @@
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
 
-      /* header styles
+   /* Portfolio styles
+   -------------------------------------------------------------------- */
+
+   #portfolio .desc { width: 90% }
+   
+   /* Contact styles
    -------------------------------------------------------------------- */
 
    #contact .row { width: 90% }
