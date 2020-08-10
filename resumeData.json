@@ -50,7 +50,7 @@
     ]
   },
   "resume":{
-    "frontend":"HTML5, CSS3, Bootstrap, JavaScript, JQuery, Git, React.JS, ES6, Adobe Photoshop, Adobe Illustrator",
+    "frontend":"HTML5, CSS3, Bootstrap, JavaScript, JQuery, ES6, Git, React.JS, Context API, Adobe Photoshop, Adobe Illustrator",
     "backend":"Node.JS, Express.JS, EJS, SQL, MongoDB, Mongoose, Passport, OAuth 2.0",
     "mechE":"CSWA (Certified SolidWorks Associate), AutoCAD, MATLAB, C/C++, Arduino, Machine Shop, MIG Welding 3-D Printing",
     "education":[
@@ -122,7 +122,14 @@
         "code":"https://github.com/matthewkcheng/AFSR"
       },
       {
-        "title":"Keeper",
+        "title":"Keeper App",
+        "category":"React.JS, Context API, HTML, CSS, Javascript, and ES6",
+        "image":"gitissues.png",
+        "url":"https://matthewkcheng.github.io/gitissues",
+        "code":"https://github.com/matthewkcheng/gitissues"
+      },
+      {
+        "title":"Keeper App",
         "category":"React.JS, ES6, HTML, and CSS",
         "image":"keeper.png",
         "url":"https://matthewkcheng.github.io/keeper",
@@ -154,7 +161,7 @@
         "category":"HTML, CSS, Node.JS, EJS, MongoDB, Passport, and OAuth 2.0",
         "image":"secrets.png",
         "url":"https://enigmatic-temple-07599.herokuapp.com/",
-        "code":"https://github.com/matthewkcheng/lightbar"
+        "code":"https://github.com/matthewkcheng/secrets"
       },
       {
         "title":"Light Bar",
